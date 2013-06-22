@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android/android.iml" filepath="$PROJECT_DIR$/android/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gnu/gnu.iml" filepath="$PROJECT_DIR$/gnu/gnu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-serial.iml" filepath="$PROJECT_DIR$/java-serial.iml" />
+    </modules>
+  </component>
+</project>
+

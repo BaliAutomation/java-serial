@@ -1,0 +1,16 @@
+
+task nativesJar( type: Jar ) {
+  from 'libs'
+  into 'lib'
+  classifier 'native'
+}
+
+artifacts {
+  archives sourceJar, javadocJar, nativesJar
+}
+
+
+jar {
+  baseName = project.group + "." + project.name
+}
+

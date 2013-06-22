@@ -1,0 +1,78 @@
+
+group = "io.bali.serial"
+version = "0.1.0"
+
+apply plugin: 'java'
+apply plugin: 'idea'
+
+allprojects {
+  group = rootProject.group
+  version = rootProject.version
+  apply plugin: 'java'
+  apply plugin: 'idea'
+  apply plugin: 'maven'
+
+
+  configurations {
+    archives
+    deployerJars
+    provided
+    compile.extendsFrom provided
+    runtime.extendsFrom compile
+  }
+
+  jar {
+    baseName = project.group + "." + project.name
+  }
+
+  sourceSets {
+    main.compileClasspath += configurations.provided
+    test.compileClasspath += configurations.provided
+    test.runtimeClasspath += configurations.provided
+  }
+
+  task sourceJar( type: Jar ) {
+    classifier = "sources"
+    baseName = project.group + "." + project.name
+    from sourceSets.main.allSource
+  }
+
+  task javadocJar( type: Jar ) {
+    classifier = "javadoc"
+    from javadoc.destinationDir
+    baseName = project.group + "." + project.name
+    dependsOn javadoc
+  }
+
+  artifacts {
+    archives sourceJar, javadocJar
+  }
+
+  repositories {
+    mavenCentral()
+    mavenLocal()
+    mavenRepo name: 'qi4j-repo', url: 'https://repository-qi4j.forge.cloudbees.com/release/'
+    mavenRepo name: 'restlet-repo', url: 'http://maven.restlet.org'
+  }
+
+  idea.module.iml {
+    whenMerged { module ->
+      module.dependencies*.exported = false
+    }
+  }
+}
+
+task javadocs( type: Javadoc ) {
+
+  options.docFilesSubDirs = true
+  options.encoding = "UTF-8"
+  options.group( [ "Java Comm API": [ "javax.comm.*" ],
+          "Implementation": [ "ac.bali.serial.*" ]
+  ] )
+
+}
+
+task wrapper(type: Wrapper) {
+  gradleVersion = "1.5.0"
+}
+

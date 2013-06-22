@@ -1,0 +1,4 @@
+build/
+target/
+gnu/src/main/c/include/OSX/
+.gradle/
