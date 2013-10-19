@@ -2,113 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c81e186-00e3-4dd7-91b3-b7e76385ee94" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/obj/local/armeabi-v7a/objs/serialport/SerialPort.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/obj/local/armeabi/objs/serialport/SerialPort.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/obj/local/x86/objs/serialport/SerialPort.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gnu/src/main/c/resources/native/osx/libNRJavaSerial _10.7.jnilib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gnu/src/main/c/resources/native/windows/x86_32/libNRJavaSerial.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gnu/src/main/c/resources/native/windows/x86_64/libNRJavaSerial.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gnu/src/main/c/resources/native/osx/libNRJavaSerial.jnilib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gnu/src/main/c/resources/native/linux/ARM/libNRJavaSerial.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gnu/src/main/c/resources/native/linux/ARM_A8/libNRJavaSerial.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gnu/src/main/c/resources/native/linux/x86_32/libNRJavaSerial.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gnu/src/main/c/resources/native/linux/x86_64/libNRJavaSerial.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gnu/src/main/c/resources/native/osx/libNRJavaSerial_10_5jnilib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gnu/src/main/c/resources/native/osx/libNRJavaSerial_10_6.jnilib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gnu/src/main/c/resources/native/linux/ARM/libNRJavaSerial_HF.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gnu/src/main/c/resources/native/osx/libNRJavaSerial_legacy.jnilib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gnu/src/main/c/resources/native/linux/ARM/libNRJavaSerial_legacy.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gnu/src/main/c/resources/native/linux/ARM_A8/libNRJavaSerial_legacy.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gnu/src/main/c/resources/native/linux/x86_32/libNRJavaSerial_legacy.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gnu/src/main/c/resources/native/linux/x86_64/libNRJavaSerial_legacy.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gnu/src/main/c/resources/native/linux/ARM/libNRJavaSerialv6.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gnu/src/main/c/resources/native/linux/ARM/libNRJavaSerialv6_HF.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/libs/armeabi/libserialport.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/libs/armeabi-v7a/libserialport.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/libs/x86/libserialport.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/obj/local/armeabi/libserialport.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/obj/local/armeabi-v7a/libserialport.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/obj/local/x86/libserialport.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gnu/src/main/c/.cproject" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gnu/src/main/c/.project" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/jni/Android.mk" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/jni/Application.mk" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/src/main/java/javax/comm/CommDriver.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gnu/src/main/java/javax/comm/CommDriver.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/src/main/java/javax/comm/CommPort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gnu/src/main/java/javax/comm/CommPort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/src/main/java/javax/comm/CommPortIdentifier.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gnu/src/main/java/javax/comm/CommPortIdentifier.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/src/main/java/javax/comm/CommPortOwnershipListener.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gnu/src/main/java/javax/comm/CommPortOwnershipListener.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gnu/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gnu/src/main/c/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gnu/src/main/java/ac/bali/serial/NRSerialPort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gnu/src/main/java/ac/bali/serial/NativeResource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gnu/src/main/java/ac/bali/serial/NativeResourceException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/src/main/java/javax/comm/NoSuchPortException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gnu/src/main/java/javax/comm/NoSuchPortException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/src/main/java/javax/comm/PortInUseException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gnu/src/main/java/javax/comm/PortInUseException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gnu/src/main/java/ac/bali/serial/RXTXCommDriver.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gnu/src/main/java/ac/bali/serial/RXTXPort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gnu/src/main/java/ac/bali/serial/RXTXVersion.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/src/main/java/io/bali/serialport/api/SerialCommDriver.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/src/main/java/io/bali/serialport/api/SerialCommPort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gnu/src/main/c/src/SerialImp.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gnu/src/main/c/include/SerialImp.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gnu/src/main/java/ac/bali/serial/SerialManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/jni/SerialPort.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/jni/SerialPort.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/src/main/java/io/bali/serialport/api/SerialPort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/src/main/java/javax/comm/SerialPort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gnu/src/main/java/javax/comm/SerialPort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/obj/local/armeabi-v7a/objs/serialport/SerialPort.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/obj/local/armeabi/objs/serialport/SerialPort.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/obj/local/x86/objs/serialport/SerialPort.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/src/main/java/javax/comm/SerialPortEvent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gnu/src/main/java/javax/comm/SerialPortEvent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/src/main/java/javax/comm/SerialPortEventListener.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gnu/src/main/java/javax/comm/SerialPortEventListener.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/src/main/java/io/bali/serialport/api/SerialPortFinder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gnu/src/main/java/ac/bali/serial/UnSupportedLoggerException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/src/main/java/javax/comm/UnsupportedCommOperationException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gnu/src/main/java/javax/comm/UnsupportedCommOperationException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gnu/src/main/java/ac/bali/serial/Zystem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/android.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/android.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/ant.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/ant.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gnu/src/main/c/include/config.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gnu/src/main/c/src/fixup.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/jni/gen_SerialPort_h.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gnu/gnu.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gnu/gnu.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradlew.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradlew" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gnu/src/main/c/src/windows/init.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-serial.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/local.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gnu/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/proguard-project.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/project.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/settings.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gnu/src/main/c/src/windows/termios.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gnu/src/main/c/include/windows/win32termios.h" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="nrjavaserial.iws" />
@@ -118,7 +11,7 @@
     <file path="/ExternalHttpReference.java" changelist="3c81e186-00e3-4dd7-91b3-b7e76385ee94" time="1369452833435" ignored="false" />
     <file path="$PROJECT_DIR$/../control/runtime/src/main/java/ac/bali/control/io/rest/ExternalReference.java" changelist="3c81e186-00e3-4dd7-91b3-b7e76385ee94" time="1369452894441" ignored="false" />
     <file path="/ExternalReference.java" changelist="3c81e186-00e3-4dd7-91b3-b7e76385ee94" time="1369452704419" ignored="false" />
-    <file path="/Dummy.txt" changelist="3c81e186-00e3-4dd7-91b3-b7e76385ee94" time="1371880078952" ignored="false" />
+    <file path="/Dummy.txt" changelist="3c81e186-00e3-4dd7-91b3-b7e76385ee94" time="1371881713971" ignored="false" />
     <file path="/fragment.java" changelist="3c81e186-00e3-4dd7-91b3-b7e76385ee94" time="1371445495513" ignored="false" />
     <file path="/CommPortEnumerator.java" changelist="3c81e186-00e3-4dd7-91b3-b7e76385ee94" time="1371096692087" ignored="false" />
     <file path="/CommPortIdentifier.java" changelist="3c81e186-00e3-4dd7-91b3-b7e76385ee94" time="1371112147117" ignored="false" />
@@ -397,7 +290,7 @@
       <file leaf-file-name="SerialManager.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gnu/src/main/java/ac/bali/serial/SerialManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="13" selection-start="38" selection-end="38" vertical-scroll-proportion="0.065645516">
+            <state line="2" column="14" selection-start="39" selection-end="39" vertical-scroll-proportion="0.06593407">
               <folding />
             </state>
           </provider>
@@ -1283,6 +1176,11 @@
       <created>1350895350348</created>
       <updated>1350895350348</updated>
     </task>
+    <task id="LOCAL-00001" summary="First cut at this;&#10;   - gnu = RXTX with a compatible javax.comm API&#10;   - android = diff implementation of javax.comm API">
+      <created>1371881739427</created>
+      <updated>1371881739427</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1292,7 +1190,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32804233" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32891247" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1307,7 +1205,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24892396" sideWeight="0.6719577" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24892396" sideWeight="0.6710875" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1509,7 +1407,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gnu/src/main/java/ac/bali/serial/SerialManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="13" selection-start="38" selection-end="38" vertical-scroll-proportion="0.065645516">
+        <state line="2" column="14" selection-start="39" selection-end="39" vertical-scroll-proportion="0.06593407">
           <folding />
         </state>
       </provider>
